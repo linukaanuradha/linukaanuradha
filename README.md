@@ -1,4 +1,4 @@
-# Hi there, I'm Linuka<span style="color:powerblue;"> Anuradha! </span>👋
+# Hi there, I'm Linuka<p style="color:blue;"> Anuradha! </p>👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Creative+Frontend+Developer;Firebase+Developer+/+Backend+Specialist;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
