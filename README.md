@@ -37,7 +37,7 @@ I am a passionate **Freelance Web Developer** dedicated to building modern, resp
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nadinadamsana11&theme=tokyonight&no-bg=false&margin-w=15" alt="nadinadamsana11" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nadinadamsana11&theme=tokyonight&no-bg=false&margin-w=15" alt="linukaanuradha" />
 </p>
 
 ### 🐍 My Contribution Snake
