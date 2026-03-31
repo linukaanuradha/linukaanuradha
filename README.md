@@ -18,7 +18,7 @@ I am a passionate **Freelance Web Developer** dedicated to building modern, resp
 ---
 
 ### 🚀 What I'm working on
-- 🌍 My main portfolio is live at [**nadinadamsana.com.lk**](https://nadinadamsana.com.lk)
+- 🌍 My main portfolio is live at [**linukaanuradha**](https://github.com/linukaanuradha)
 - 🛠️ Currently honing my skills in **Three.js** and **React**.
 - 🌱 I’m currently learning more about **AI-driven development**.
 
