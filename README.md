@@ -35,35 +35,121 @@ I am a passionate **Freelance Web Developer** dedicated to building modern, resp
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nadinadamsana11&theme=tokyonight&no-bg=false&margin-w=15" alt="linukaanuradha" />
-</p>
-
-### 🐍 My Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nadinadamsana11/nadinadamsana11/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nadinadamsana11/nadinadamsana11/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nadinadamsana11/nadinadamsana11/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-### 📊 GitHub Analysis & Activity
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadinadamsana11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadinadamsana11&layout=compact&theme=tokyonight" />
-</p>
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nadinadamsana11&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nadinadamsana11&theme=tokyonight&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=linukaanuradha&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=linukaanuradha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linukaanuradha&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=linukaanuradha&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=linukaanuradha&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/linukaanuradha/linukaanuradha/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 💼 Services
+
+✨ Responsive Website Development
+
+✨ Landing Pages
+
+✨ Portfolio Websites
+
+✨ Business Websites
+
+✨ Firebase Integration
+
+✨ UI/UX Design
+
+✨ React Applications
+
+✨ Website Maintenance
+
+---
+
+## 🎯 Current Goals
+
+✔ Master React & Next.js
+
+✔ Learn Three.js Animations
+
+✔ Build AI-powered Web Apps
+
+✔ Contribute More to Open Source
+
+✔ Grow Freelancing Career
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/linukaanuradha">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:linukaanuradha21@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://facebook.com/linukaanuradha">
+<img src="https://skillicons.dev/icons?i=facebook"/>
+</a>
+
+<a href="https://x.com/Linukaanuradha">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+</p>
+
+---
+
+## 📫 How to Reach Me
+
+- 🌍 **Portfolio:** Coming Soon...
+- 📧 **Email:** linukaanuradha21@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/linuka-anuradha-3972b8400/
+- 🐙 **GitHub:** https://github.com/linukaanuradha
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my projects, don't forget to ⭐ them.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
+
+</p>
 
 ### 📫 How to reach me
 <p align="left">
@@ -73,7 +159,7 @@ I am a passionate **Freelance Web Developer** dedicated to building modern, resp
   <a href="https://www.tiktok.com/@linu_official3" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="https://youtube.com/@linukaanuradha?si=yDLHYGjo0n_dWLdp" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.pinterest.com/nadinadamsana" target="_blank"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
-  <a href="https://x.com/ShopWavermzh" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/Linukaanuradha" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.threads.net/@nadinadamsana0" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
   <a href="https://www.patreon.com/nadinadamsana" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
   <a href="mailto:nadinadamsana11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
