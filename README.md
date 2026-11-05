@@ -172,8 +172,8 @@ If you like my projects, don't forget to ⭐ them.
   </a>
 </p>
 
-- 🔗 **All Links:** [linktr.ee/nadinadamsana](https://linktr.ee/nadinadamsana)
-- 🌍 **Portfolio:** [nadinadamsana.com.lk](https://nadinadamsana.com.lk)
+- 🔗 **All Links:** [https://linukaanuradha.netlify.app/](https://linukaanuradha.netlify.app/)
+- 🌍 **Portfolio:** [https://linukaanuradha.netlify.app/](https://linukaanuradha.netlify.app/)
 
 ---
 
