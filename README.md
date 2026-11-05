@@ -1,7 +1,7 @@
 # Hi there, I'm Linuka <font color="#36BCF7"> Anuradha! </font>👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Creative+Frontend+Developer;Firebase+Developer+/+Backend+Specialist;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7¢er=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Creative+Frontend+Developer;Firebase+Developer+/+Backend+Specialist;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -113,7 +113,7 @@ I am a passionate **Freelance Web Developer** dedicated to building modern, resp
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINK">
+<a href="https://linkedin.com/in/linuka-anuradha-3972b8400">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -121,7 +121,7 @@ I am a passionate **Freelance Web Developer** dedicated to building modern, resp
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://facebook.com/linukaanuradha">
+<a href="https://facebook.com/linuka.anuradha">
 <img src="https://skillicons.dev/icons?i=facebook"/>
 </a>
 
@@ -132,25 +132,6 @@ I am a passionate **Freelance Web Developer** dedicated to building modern, resp
 
 ---
 
-## 📫 How to Reach Me
-
-- 🌍 **Portfolio:** Coming Soon...
-- 📧 **Email:** linukaanuradha21@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/linuka-anuradha-3972b8400/
-- 🐙 **GitHub:** https://github.com/linukaanuradha
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my projects, don't forget to ⭐ them.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
-
-</p>
-
 ### 📫 How to reach me
 <p align="left">
   <a href="https://www.linkedin.com/in/linuka-anuradha-3972b8400/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -158,16 +139,13 @@ If you like my projects, don't forget to ⭐ them.
   <a href="https://www.instagram.com/linuka.anuradha/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@linu_official3" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="https://youtube.com/@linukaanuradha?si=yDLHYGjo0n_dWLdp" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.pinterest.com/nadinadamsana" target="_blank"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
   <a href="https://x.com/Linukaanuradha" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.threads.net/@nadinadamsana0" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
-  <a href="https://www.patreon.com/nadinadamsana" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
-  <a href="mailto:nadinadamsana11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:linukaanuradha21@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ### ☕ Support My Work
 <p align="left">
-  <a href="https://buymeacoffee.com/nadinadamsana" target="_blank">
+  <a href="https://buymeacoffee.com/linukaanuradha" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162px !important;" >
   </a>
 </p>
@@ -182,5 +160,5 @@ If you like my projects, don't forget to ⭐ them.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadinadamsana11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=linukaanuradha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
