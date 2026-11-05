@@ -1,8 +1,13 @@
 body {
-    background: #f0f4ff;
+    background-color: #292525;
+    color: yellow;
+    font-family: Arial, sans-serif;
     text-align: center;
     padding: 50px;
-    font-family: Arial;
+}
+
+h1 {
+    color: #00ffcc;
 }
 
 /* Continuous Animation Using Keyframes */
@@ -13,8 +18,8 @@ body {
     margin: 20px auto;
     border-radius: 12px;
     animation: bounce 2s infinite;
-    font-size:50px;
-   text-align:center;
+    font-size: 50px;
+    text-align: center;
 }
 
 /* Keyframes Animation */
@@ -32,6 +37,7 @@ body {
     border-radius: 8px;
     font-size: 18px;
     cursor: pointer;
+    color: white;
     transition: transform 0.3s, background 0.3s;
 }
 
